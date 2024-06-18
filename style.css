@@ -1,0 +1,159 @@
+/* this is a new comment */
+ /* styling the body */
+ body {
+    background: white;
+    font-size: 2.4rem;
+    margin: 0rem;
+    padding: 0rem;
+ }
+/* styling the header */
+h1 {
+    font-size: 1.5rem;
+    font-style: normal;
+    font-family: arial;
+    color: goldenrod;
+    text-align: center;
+}
+h2 {
+    font-size: 1.6rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+h3 {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+h4 {
+    font-size: 1.0rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+/* styling the logo */
+.logo {
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    margin-bottom: -5rem;
+    margin-left: 35rem;
+    padding-bottom: 0 auto;
+
+}
+/* styling the footer */
+footer {
+    display: block;
+    background-color: black;
+    color: black;
+    flex-direction: fixed;
+    padding-bottom: 2rem;
+}
+/* styling the paragraph */
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, ;
+    font-weight: 10;
+    font-size: 1.6rem;
+}
+/* styling the abt */
+.abt {
+    text-align: center;
+    padding: 2.5rem;
+}
+/* styling the row */
+.row {
+    flex-direction: row;
+    display: flex;
+    width: 20rem;
+    height: 20rem;
+    margin-top: -3.5rem;
+} 
+.row img {
+    margin-left: 1.3rem; 
+    padding-bottom: 2rem;
+}
+video {
+display: flex;
+margin-left: 5rem;
+margin-bottom: 0 auto;
+padding: none;
+margin-top: -9rem;
+margin-bottom: none;
+}
+
+.video-container {
+    max-width: 35rem;
+    max-height: auto;
+
+}
+/* styling the con tag */
+.con {
+    margin-left: 38rem;
+    margin-top: -20rem;
+}
+/* styling the button */
+button {
+    color: red;
+}
+
+/*styling the menu*/
+.break {
+    margin-left: 2.5rem;
+    margin-top: 1.5rem;
+}
+.lunc {
+    margin-top: -3.5rem;
+    margin-left: 33rem;
+}
+.dine {
+    margin-top: -4.0rem;
+    margin-left: 59rem;
+}
+/* styling the lane */
+.lane {
+    margin-top: -5rem;
+}
+.laned {
+    margin-top: -2rem;
+}
+.vido {
+    margin-top: -10rem;
+}
+/* Styling row */
+.raw {
+  display: flex;
+  flex-direction: row;
+  width: 5%;
+  height: 10rem;
+  margin-left: 2.5rem;
+}
+.raw img {
+  margin-top: 2rem;
+  margin-right: 0 auto;
+  margin-left: 1rem;
+  padding: none;
+}
+
+/* Styling row2*/
+.raw2 {
+    width: 5rem;
+    height: 5rem;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 36rem;
+    margin-bottom: 2rem;
+  }
+  .raw2 img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+
